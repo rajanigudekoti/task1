@@ -8,8 +8,8 @@ age = input("Enter your age: ")
 hobby = input("What is your favorite hobby? ")
 
 # Displaying a friendly welcome message
-print("\n🌟 Welcome Message 🌟")
+print("\nWelcome Message ")
 print("Hello", name + "!")
 print("You are", age, "years old.")
 print("It's great to know that you enjoy", hobby + ".")
-print("Welcome aboard! Have a wonderful day ahead 😊")
+print("Welcome aboard! Have a wonderful day ahead")
